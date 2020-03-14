@@ -117,9 +117,7 @@ By using EggShell, you agree to the GNU General Public License v2.0 included in 
 * **suspend**        : suspend current session (goes back to login screen)
 * **upload**         : upload file
 
-
-
-#WsServer
+# WsServer
 
 
 ## About
@@ -139,7 +137,7 @@ Clients must be compatible with server using the same protocol.
 
 ## Functions
 
-###macos
+### macos
 * **screenshot**     : take screenshot
 * **picture**        : take picture through iSight
 
